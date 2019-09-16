@@ -1,2 +1,0 @@
-# reactjstest
-Created with CodeSandbox
